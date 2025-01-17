@@ -110,7 +110,7 @@
                         </staffDef>
                         <staffDef xml:id="sdz4xlw2" keysig="4s" lines="5" meter.count="9" meter.unit="8" n="3">
                            <clef xml:id="cy10vr21" line="4" shape="F"/>
-                           <instrDef xml:id="instrDef-kqlwpd1" midi.channel="0" midi.instrnum="0" midi.volume="60.00%"/>
+                           <instrDef xml:id="instrDef-kqlwpd2" midi.channel="0" midi.instrnum="0" midi.volume="60.00%"/>
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
