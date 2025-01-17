@@ -101,13 +101,16 @@
                   <staffGrp xml:id="sugmpt81">
                      <staffDef xml:id="sdc30mk1" keysig="4s" lines="5" meter.count="9" meter.unit="8" n="1">
                         <clef xml:id="chxar3u1" line="2" shape="G"/>
+                        <instrDef xml:id="instrDef-lhorww2" midi.channel="1" midi.instrnum="52" midi.volume="80.00%"/>
                      </staffDef>
                      <staffGrp xml:id="s6y7r83" bar.thru="true" symbol="brace">
                         <staffDef xml:id="sasccn5" keysig="4s" lines="5" meter.count="9" meter.unit="8" n="2">
                            <clef xml:id="c2k8dp81" line="2" shape="G"/>
+                           <instrDef xml:id="instrDef-kqlwpd1" midi.channel="0" midi.instrnum="0" midi.volume="70.00%"/>
                         </staffDef>
                         <staffDef xml:id="sdz4xlw2" keysig="4s" lines="5" meter.count="9" meter.unit="8" n="3">
                            <clef xml:id="cy10vr21" line="4" shape="F"/>
+                           <instrDef xml:id="instrDef-kqlwpd1" midi.channel="0" midi.instrnum="0" midi.volume="70.00%"/>
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
