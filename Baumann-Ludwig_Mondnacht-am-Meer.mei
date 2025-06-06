@@ -7,8 +7,8 @@
          <titleStmt>
             <title>Mondnacht am Meer</title>
             <respStmt>
-               <persName xml:id="lb" role="composer" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817">Ludwig Baumann</persName>
-               <persName xml:id="ap" role="encoder" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201">Anna Plaksin</persName>
+               <persName xml:id="lb" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817" role="composer">Ludwig Baumann</persName>
+               <persName xml:id="ap" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201" role="encoder">Anna Plaksin</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-09-23T11:53:19" startdate="2024-08-01T10:49:53" version="1.1.7">
+            <application xml:id="a03mgbf" enddate="2025-06-06T13:06:55" startdate="2024-08-01T10:49:53" version="1.2.6">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -273,7 +273,7 @@
                            </note>
                            <note xml:id="n1jwvjyl" dur="8" oct="4" pname="b">
                               <verse xml:id="v44sf1a1" n="1">
-                                 <syl xml:id="s7oag06" wordpos="m" con="d">fer</syl>
+                                 <syl xml:id="s7oag06" con="d" wordpos="m">fer</syl>
                               </verse>
                            </note>
                         </layer>
@@ -755,7 +755,7 @@
                      </staff>
                      <staff xml:id="m8s3" n="3">
                         <layer xml:id="m8s3l1" n="1">
-                           <note xml:id="noy34fi2" dur="8" oct="2" pname="e" stem.dir="down" grace="unacc">
+                           <note xml:id="noy34fi2" dur="8" grace="unacc" oct="2" pname="e" stem.dir="down">
                               <accid xml:id="al497ts2" accid="n"/>
                            </note>
                            <note xml:id="nimr86z" dur="4" oct="3" pname="e">
@@ -1543,8 +1543,8 @@
                         <layer xml:id="m17s2l2" n="2">
                            <note xml:id="nlze81f" dur="4" oct="4" pname="a"/>
                            <note xml:id="n6rq6sf" dur="8" oct="4" pname="e"/>
-                           <note xml:id="nyyerz9" dots="1" dur="4" oct="4" pname="c"/>
-                           <note xml:id="n105qhb2" dur="4" oct="4" pname="c"/>
+                           <note xml:id="nyyerz9" accid.ges="s" dots="1" dur="4" oct="4" pname="c"/>
+                           <note xml:id="n105qhb2" accid.ges="s" dur="4" oct="4" pname="c"/>
                            <note xml:id="n1jfeprz" dur="8" oct="4" pname="e"/>
                         </layer>
                      </staff>
@@ -1596,9 +1596,7 @@
                                     <syl xml:id="sjct42t2">hin</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1b41uwl" dur="8" oct="4" pname="b">
-                                 <accid xml:id="a68stsd1" accid.ges="s"/>
-                              </note>
+                              <note xml:id="n1b41uwl" dur="8" oct="4" pname="b"/>
                            </beam>
                            <note xml:id="n1ufafha" dur="8" oct="4" pname="a" type="mscore-beam-none">
                               <verse xml:id="vt9e7fu1" n="1">
@@ -1654,7 +1652,7 @@
                         <layer xml:id="m19s1l1" n="1">
                            <note xml:id="n1ic7zju" dots="1" dur="4" oct="4" pname="f">
                               <verse xml:id="vhct4xl1" n="1">
-                                 <syl xml:id="scjnvio1" wordpos="m" con="u">her</syl>
+                                 <syl xml:id="scjnvio1" con="u" wordpos="m">her</syl>
                               </verse>
                               <accid xml:id="an4iaxr1" accid.ges="s"/>
                            </note>
@@ -2000,7 +1998,7 @@
                         <layer xml:id="m22s1l1" n="1">
                            <note xml:id="nkqson8" dur="4" oct="4" pname="a">
                               <verse xml:id="vc240aq2" n="1">
-                                 <syl xml:id="smiqs2t2" wordpos="i" con="d">Win</syl>
+                                 <syl xml:id="smiqs2t2" con="d" wordpos="i">Win</syl>
                               </verse>
                            </note>
                            <note xml:id="n1srulte" dur="8" oct="4" pname="f">
@@ -2573,7 +2571,7 @@
                         <layer xml:id="m29s1l1" n="1">
                            <note xml:id="no3lmsb" dots="1" dur="4" oct="4" pname="a">
                               <verse xml:id="v4oizb" n="1">
-                                 <syl xml:id="sshgw7a1" wordpos="i" con="d">Was</syl>
+                                 <syl xml:id="sshgw7a1" con="d" wordpos="i">Was</syl>
                               </verse>
                               <accid xml:id="acw6nd91" accid="s"/>
                            </note>
@@ -2862,7 +2860,7 @@
                         <layer xml:id="m32s1l1" n="1">
                            <note xml:id="n1gqbpwt" dots="1" dur="4" oct="5" pname="e">
                               <verse xml:id="v3d5cny1" n="1">
-                                 <syl xml:id="s5mc9rz2" wordpos="i" con="d">Sehn</syl>
+                                 <syl xml:id="s5mc9rz2" con="d" wordpos="i">Sehn</syl>
                               </verse>
                            </note>
                            <note xml:id="n1m2xuk7" dur="4" oct="5" pname="e"/>
@@ -2963,7 +2961,7 @@
                         <layer xml:id="m33s1l1" n="1">
                            <note xml:id="n2furcz" dots="1" dur="2" oct="4" pname="b">
                               <verse xml:id="vliqho91" n="1">
-                                 <syl xml:id="s61h0dv2" wordpos="i" con="d">Sehn</syl>
+                                 <syl xml:id="s61h0dv2" con="d" wordpos="i">Sehn</syl>
                               </verse>
                            </note>
                            <note xml:id="n1upgc9k" dots="1" dur="4" oct="4" pname="b" stem.dir="up">
@@ -3270,7 +3268,7 @@
                                  <accid xml:id="a8rs87h" accid="s"/>
                               </note>
                               <note xml:id="naj7mu9" dur="8" oct="6" pname="e"/>
-                              <note xml:id="nhlb0fq" dur="8" oct="5" pname="a" accid.ges="s" />
+                              <note xml:id="nhlb0fq" accid.ges="s" dur="8" oct="5" pname="a"/>
                            </beam>
                            <beam xml:id="bjtohq2">
                               <note xml:id="newrfx9" dur="8" oct="5" oct.ges="6" pname="d">
@@ -3391,7 +3389,7 @@
                         </orig>
                         <reg xml:id="rwnsiaq1" resp="#ap">
                            <!--change content of alternative reading-->
-                           <pedal xml:id="pedal-xty3z5" dir="down" form="altpedstar" endid="#rgf1xug" startid="#n1c9vcly"/>
+                           <pedal xml:id="pedal-xty3z5" dir="down" endid="#rgf1xug" form="altpedstar" startid="#n1c9vcly"/>
                         </reg>
                      </choice>
                      <dynam xml:id="d1iqhp0u" label="pp" startid="#n1ofgyyt">pp</dynam>
@@ -3441,7 +3439,7 @@
                         <layer xml:id="m39s3l2" n="2">
                            <choice xml:id="chb7vgg" corresp="#c3azw5t2" resp="#ap">
                               <orig xml:id="o5846xo2">
-                                 <clef xml:id="chmo9ij2" line="4" shape="F" staff="3" layer="2" visible="false"/>
+                                 <clef xml:id="chmo9ij2" layer="2" line="4" shape="F" staff="3" visible="false"/>
                                  <note xml:id="n4hvsz3" dots="1" dur="2" oct="2" pname="e"/>
                                  <note xml:id="n15zgltp" dots="1" dur="4" oct="2" pname="e"/>
                               </orig>
@@ -3503,7 +3501,7 @@
                      </staff>
                      <staff xml:id="m40s3" n="3">
                         <layer xml:id="m40s3l1" n="1">
-                           <clef xml:id="cpjteyy2" line="2" shape="G" staff="3" layer="1" visible="false"/>
+                           <clef xml:id="cpjteyy2" layer="1" line="2" shape="G" staff="3" visible="false"/>
                            <note xml:id="ni4v4j3" dots="1" dur="4" oct="5" pname="g">
                               <accid xml:id="axranr41" accid.ges="s"/>
                            </note>
