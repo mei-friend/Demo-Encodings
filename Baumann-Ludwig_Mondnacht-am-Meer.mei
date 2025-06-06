@@ -88,7 +88,7 @@
          <mdiv xml:id="m81oac9">
             <score xml:id="sj5zskn2">
                <scoreDef xml:id="shf74yh1">
-                  <pgHead xml:id="pfq6kww2">
+                  <pgHead xml:id="pfq6kww2" func="first">
                      <rend xml:id="rf7vc6m2" halign="center" valign="top">
                         <rend xml:id="r1lyxyr1" fontsize="x-large" type="title">Mondnacht am Meer</rend>
                         <lb xml:id="luooqgu2"/>
@@ -191,7 +191,7 @@
                            </note>
                            <note xml:id="n413irk" dur="8" oct="4" pname="b">
                               <verse xml:id="v2fufrs1" n="1">
-                                 <syl xml:id="sz0pna91" wordpos="t">ber'm</syl>
+                                 <syl xml:id="sz0pna91" wordpos="t">ber’m</syl>
                               </verse>
                            </note>
                         </layer>
@@ -1262,7 +1262,7 @@
                            </note>
                            <note xml:id="n1ah0yyr" dur="8" oct="4" pname="a">
                               <verse xml:id="vc3oj7n1" n="1">
-                                 <syl xml:id="s8pdgkm2" wordpos="t">ber's</syl>
+                                 <syl xml:id="s8pdgkm2" wordpos="t">ber’s</syl>
                               </verse>
                            </note>
                         </layer>
