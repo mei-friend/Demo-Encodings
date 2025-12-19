@@ -268,7 +268,7 @@
                            </note>
                            <note xml:id="ng53bhg" dur="4" oct="4" pname="b">
                               <verse xml:id="vo6b3zj1" n="1">
-                                 <syl xml:id="spxpzb3" wordpos="i">U</syl>
+                                 <syl xml:id="spxpzb3" con="d" wordpos="i">U</syl>
                               </verse>
                            </note>
                            <note xml:id="n1jwvjyl" dur="8" oct="4" pname="b">
@@ -3439,7 +3439,7 @@
                         <layer xml:id="m39s3l2" n="2">
                            <choice xml:id="chb7vgg" corresp="#c3azw5t2" resp="#ap">
                               <orig xml:id="o5846xo2">
-                                 <clef xml:id="chmo9ij2" layer="2" line="4" shape="F" staff="3" visible="false"/>
+                                 <clef xml:id="chmo9ij2" layer="2" line="4" shape="F" visible="false"/>
                                  <note xml:id="n4hvsz3" dots="1" dur="2" oct="2" pname="e"/>
                                  <note xml:id="n15zgltp" dots="1" dur="4" oct="2" pname="e"/>
                               </orig>
@@ -3501,7 +3501,7 @@
                      </staff>
                      <staff xml:id="m40s3" n="3">
                         <layer xml:id="m40s3l1" n="1">
-                           <clef xml:id="cpjteyy2" layer="1" line="2" shape="G" staff="3" visible="false"/>
+                           <clef xml:id="cpjteyy2" layer="1" line="2" shape="G" visible="false"/>
                            <note xml:id="ni4v4j3" dots="1" dur="4" oct="5" pname="g">
                               <accid xml:id="axranr41" accid.ges="s"/>
                            </note>
