@@ -126,7 +126,7 @@
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
                            <beam xml:id="b0aj44f">
-                              <note xml:id="n1rjzmja" dur="8" facs="#zn58tx1" oct="4" pname="g">
+                              <note xml:id="n1rjzmja" dur="8" oct="4" pname="g">
                                  <accid xml:id="aumny1r1" accid.ges="s"/>
                               </note>
                               <note xml:id="n1dnbrb8" dur="8" oct="4" pname="b"/>
