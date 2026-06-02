@@ -3,27 +3,27 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead>
-      <fileDesc>
-         <titleStmt>
-            <title>Mondnacht am Meer</title>
-            <respStmt>
-               <persName xml:id="lb" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817" role="composer">Ludwig Baumann</persName>
-               <persName xml:id="ap" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201" role="encoder">Anna Plaksin</persName>
-            </respStmt>
-         </titleStmt>
-         <pubStmt>
-            <date isodate="2024-08-01T09:59:15"/>
-         </pubStmt>
-      </fileDesc>
-      <encodingDesc xml:id="eh7ebg01">
-         <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2026-06-02T12:29:31" startdate="2024-08-01T10:49:53" version="1.3.0">
-               <name xml:id="nbtjpo81">mei-friend</name>
-               <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
-            </application>
-         </appInfo>
-      </encodingDesc>
-   </meiHead>
+<fileDesc>
+<titleStmt>
+<title>Mondnacht am Meer</title>
+<respStmt>
+<persName xml:id="lb" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817" role="composer">Ludwig Baumann</persName>
+<persName xml:id="ap" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201" role="encoder">Anna Plaksin</persName>
+</respStmt>
+</titleStmt>
+<pubStmt>
+<date isodate="2024-08-01T09:59:15"/>
+</pubStmt>
+</fileDesc>
+<encodingDesc xml:id="eh7ebg01">
+<appInfo xml:id="a3tff0c1">
+<application xml:id="a03mgbf" enddate="2026-06-02T12:29:31" startdate="2024-08-01T10:49:53" version="1.3.0">
+<name xml:id="nbtjpo81">mei-friend</name>
+<p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
+</application>
+</appInfo>
+</encodingDesc>
+</meiHead>
    <music xml:id="mm9bgqh1">
       <facsimile xml:id="fqyean2">
          <surface xml:id="surface_01J46HF9ZHFCAXXRKM4J7X4VW9" lrx="1999" lry="2580" n="1" ulx="0" uly="0">
@@ -1862,7 +1862,7 @@
                            <rest xml:id="r1fm8o2h" dots="1" dur="4"/>
                            <rest xml:id="r736dj1" dots="1" dur="4"/>
                            <note xml:id="n1ntz5o0" dur="8" grace="unacc" oct="5" pname="c" stem.dir="up">
-                              <accid xml:id="ayvcl681" accid.ges="s"/>
+                              <accid xml:id="ayvcl681" accid="x"/>
                            </note>
                            <note xml:id="nkacpu5" dots="1" dur="4" oct="5" pname="d" stem.dir="up">
                               <accid xml:id="ae1jcft2" accid.ges="s"/>
