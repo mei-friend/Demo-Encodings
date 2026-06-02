@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2025-06-06T13:06:55" startdate="2024-08-01T10:49:53" version="1.2.6">
+            <application xml:id="a03mgbf" enddate="2026-06-02T12:29:31" startdate="2024-08-01T10:49:53" version="1.3.0">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -979,18 +979,14 @@
                            </bTrem>
                            <beam xml:id="bngwomu2">
                               <chord xml:id="c2ccg3y" dur="8">
-                                 <note xml:id="n1ug11bw" oct="3" pname="g">
-                                    <accid xml:id="aw8sodm1" accid.ges="s"/>
-                                 </note>
+                                 <note xml:id="n1ug11bw" oct="3" pname="a"/>
                                  <note xml:id="ngrnbss" oct="4" pname="d">
                                     <accid xml:id="acv533u2" accid="n"/>
                                  </note>
                                  <note xml:id="n1kp9o40" oct="4" pname="e"/>
                               </chord>
                               <chord xml:id="ctcb647" dur="8">
-                                 <note xml:id="nz6ldpv" oct="3" pname="g">
-                                    <accid xml:id="a40kf2k2" accid.ges="s"/>
-                                 </note>
+                                 <note xml:id="nz6ldpv" oct="3" pname="a"/>
                                  <note xml:id="n19em1n1" oct="4" pname="d"/>
                                  <note xml:id="naawlwo" oct="4" pname="e"/>
                               </chord>
